@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Liffe93/liffe93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m a privacy engineer helping inform the public on how to protect their digital lives. 
 - 🌱 I’m currently learning DevSecOps.
 - 👯 I’m looking to collaborate on OWASP projects and python apps. 
